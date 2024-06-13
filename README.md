@@ -1,4 +1,4 @@
-
+#akansha's token
 # MyToken Solidity Project
 
 A simple Solidity smart contract for an ERC20-like token with minting and burning functionality.
