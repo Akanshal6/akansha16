@@ -1,7 +1,3 @@
-# akansha16
-Sure, here is a shorter version of the README:
-
----
 
 # MyToken Solidity Project
 
@@ -16,11 +12,6 @@ A simple Solidity smart contract for an ERC20-like token with minting and burnin
 
 ## Getting Started
 
-### Prerequisites
-
-- [Solidity](https://docs.soliditylang.org/en/v0.8.0/installing-solidity.html)
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
 
 ### Installation
 
